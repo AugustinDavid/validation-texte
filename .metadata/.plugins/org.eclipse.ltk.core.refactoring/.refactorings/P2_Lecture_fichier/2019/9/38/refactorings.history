@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;texte_support.txt&apos; to &apos;P2_Lecture_fichier&apos;" description="Move &apos;texte_support.txt&apos; to &apos;P2_Lecture_fichier&apos;" destination="/P2_Lecture_fichier" element1="src/texte_support.txt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1568639962980" updateReferences="true"/>
+</session>
